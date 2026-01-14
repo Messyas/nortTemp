@@ -1,4 +1,4 @@
-# Projeto NorteTemp
+# Projeto NortTemp
 
 Bem-vindo ao repositório do **NorteTemp**! Este documento fornece as instruções necessárias para instalar, configurar e executar o projeto.
 
